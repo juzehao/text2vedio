@@ -1,0 +1,10 @@
+{
+  "eos_token_id": [
+    2,
+    64795,
+    64797
+  ],
+  "max_new_tokens": 512,
+  "pad_token_id": 0,
+  "transformers_version": "4.37.2"
+}
