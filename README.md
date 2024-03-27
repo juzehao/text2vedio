@@ -18,7 +18,9 @@ https://github.com/juzehao/text2vedio/assets/83051910/a9dff10a-bbad-4e60-874e-74
 ## 打开接口
 运行Chatglm，EmotiVoice中的run_interface.py，启动文本生成，文字转语音接口
 ## 运行程序
-运行main.py程序
+运行main.py程序，打开浏览器，输入127.0.0.1:8080,输入小说文本后，提交
+<img width="921" alt="image" src="https://github.com/juzehao/text2vedio/assets/83051910/174cde68-fe96-405d-bbfa-999424836d9f">
+
 ## 不足
 1.无法一键启动 2.python环境混乱 3.无法选择视频中图片数量 4.无法选择语言，并且根据不同人物设置不同语音 5.文本生成仍有余漏
 
